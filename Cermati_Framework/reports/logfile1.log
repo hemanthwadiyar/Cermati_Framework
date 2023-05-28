@@ -1,0 +1,14 @@
+2023-05-28 17:02:04,342 :INFO : test_case1 :Clicked on Shop by category
+2023-05-28 17:02:06,299 :INFO : test_case1 :Clicked on Cell Phone and Accessories
+2023-05-28 17:02:09,141 :INFO : test_case1 :Clicked on Cell Phone accessories
+2023-05-28 17:02:09,462 :INFO : test_case1 :Clicked on See All
+2023-05-28 17:02:11,107 :INFO : test_case1 :Waited for close button
+2023-05-28 17:02:11,384 :INFO : test_case1 :Clicked on screensize filter
+2023-05-28 17:02:12,793 :INFO : test_case1 :Clicked on 6 in screen size option 
+2023-05-28 17:02:12,927 :INFO : test_case1 :Clicked on Location filter
+2023-05-28 17:02:14,278 :INFO : test_case1 :Clicked on location option
+2023-05-28 17:02:14,413 :INFO : test_case1 :Clicked on Price filter
+2023-05-28 17:02:15,572 :INFO : test_case1 :Entered the minimum value
+2023-05-28 17:02:15,654 :INFO : test_case1 :Entered the Maximum value
+2023-05-28 17:02:15,734 :INFO : test_case1 :Clicked on Apply button
+2023-05-28 17:02:18,482 :INFO : test_case1 :Clicked on applied filter to check the filters results

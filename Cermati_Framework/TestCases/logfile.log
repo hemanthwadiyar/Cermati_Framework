@@ -1,0 +1,162 @@
+2023-05-28 15:42:46,753 :INFO : test_case1 :Clicking on the category
+2023-05-28 15:44:13,313 :INFO : test_case1 :Clicking on the category
+2023-05-28 15:44:42,100 :INFO : test_case1 :Clicking on the category
+2023-05-28 15:56:41,625 :INFO : test_case1 :Clicked on Shop by category
+2023-05-28 15:56:43,746 :INFO : test_case1 :Clicked on Cell Phone and Accessories
+2023-05-28 15:57:08,526 :INFO : test_case1 :Clicked on Shop by category
+2023-05-28 15:57:10,316 :INFO : test_case1 :Clicked on Cell Phone and Accessories
+2023-05-28 15:58:07,472 :INFO : test_case1 :Clicked on Shop by category
+2023-05-28 15:58:09,417 :INFO : test_case1 :Clicked on Cell Phone and Accessories
+2023-05-28 15:58:11,795 :INFO : test_case1 :Clicked on Cell Phone accessories
+2023-05-28 15:58:12,011 :INFO : test_case1 :Clicked on See All
+2023-05-28 16:10:58,036 :INFO : test_case1 :Clicked on Shop by category
+2023-05-28 16:10:59,906 :INFO : test_case1 :Clicked on Cell Phone and Accessories
+2023-05-28 16:11:01,903 :INFO : test_case1 :Clicked on Cell Phone accessories
+2023-05-28 16:11:02,150 :INFO : test_case1 :Clicked on See All
+2023-05-28 16:12:08,358 :INFO : test_case1 :Clicked on Shop by category
+2023-05-28 16:12:10,257 :INFO : test_case1 :Clicked on Cell Phone and Accessories
+2023-05-28 16:12:12,399 :INFO : test_case1 :Clicked on Cell Phone accessories
+2023-05-28 16:12:12,768 :INFO : test_case1 :Clicked on See All
+2023-05-28 16:12:52,419 :INFO : test_case1 :Clicked on Shop by category
+2023-05-28 16:12:54,355 :INFO : test_case1 :Clicked on Cell Phone and Accessories
+2023-05-28 16:12:56,449 :INFO : test_case1 :Clicked on Cell Phone accessories
+2023-05-28 16:12:56,688 :INFO : test_case1 :Clicked on See All
+2023-05-28 16:12:58,002 :INFO : test_case1 :Waited for close button
+2023-05-28 16:12:58,217 :INFO : test_case1 :Clicked on screensize filter
+2023-05-28 16:17:17,583 :INFO : test_case1 :Clicked on Shop by category
+2023-05-28 16:17:19,426 :INFO : test_case1 :Clicked on Cell Phone and Accessories
+2023-05-28 16:17:21,553 :INFO : test_case1 :Clicked on Cell Phone accessories
+2023-05-28 16:17:21,827 :INFO : test_case1 :Clicked on See All
+2023-05-28 16:17:23,158 :INFO : test_case1 :Waited for close button
+2023-05-28 16:17:23,575 :INFO : test_case1 :Clicked on screensize filter
+2023-05-28 16:17:25,703 :INFO : test_case1 :Clicked on 6 in screen size option 
+2023-05-28 16:17:52,919 :INFO : test_case1 :Clicked on Shop by category
+2023-05-28 16:17:54,849 :INFO : test_case1 :Clicked on Cell Phone and Accessories
+2023-05-28 16:17:56,944 :INFO : test_case1 :Clicked on Cell Phone accessories
+2023-05-28 16:17:57,208 :INFO : test_case1 :Clicked on See All
+2023-05-28 16:17:58,963 :INFO : test_case1 :Waited for close button
+2023-05-28 16:17:59,151 :INFO : test_case1 :Clicked on screensize filter
+2023-05-28 16:19:09,864 :INFO : test_case1 :Clicked on Shop by category
+2023-05-28 16:19:11,739 :INFO : test_case1 :Clicked on Cell Phone and Accessories
+2023-05-28 16:19:13,791 :INFO : test_case1 :Clicked on Cell Phone accessories
+2023-05-28 16:19:14,111 :INFO : test_case1 :Clicked on See All
+2023-05-28 16:19:15,569 :INFO : test_case1 :Waited for close button
+2023-05-28 16:19:15,752 :INFO : test_case1 :Clicked on screensize filter
+2023-05-28 16:19:17,042 :INFO : test_case1 :Clicked on 6 in screen size option 
+2023-05-28 16:19:58,817 :INFO : test_case1 :Clicked on Shop by category
+2023-05-28 16:20:00,715 :INFO : test_case1 :Clicked on Cell Phone and Accessories
+2023-05-28 16:20:02,875 :INFO : test_case1 :Clicked on Cell Phone accessories
+2023-05-28 16:20:03,130 :INFO : test_case1 :Clicked on See All
+2023-05-28 16:20:04,627 :INFO : test_case1 :Waited for close button
+2023-05-28 16:20:04,818 :INFO : test_case1 :Clicked on screensize filter
+2023-05-28 16:20:06,238 :INFO : test_case1 :Clicked on 6 in screen size option 
+2023-05-28 16:25:57,472 :INFO : test_case1 :Clicked on Shop by category
+2023-05-28 16:25:59,339 :INFO : test_case1 :Clicked on Cell Phone and Accessories
+2023-05-28 16:26:01,449 :INFO : test_case1 :Clicked on Cell Phone accessories
+2023-05-28 16:26:01,700 :INFO : test_case1 :Clicked on See All
+2023-05-28 16:26:02,967 :INFO : test_case1 :Waited for close button
+2023-05-28 16:26:03,181 :INFO : test_case1 :Clicked on screensize filter
+2023-05-28 16:26:04,522 :INFO : test_case1 :Clicked on 6 in screen size option 
+2023-05-28 16:26:04,643 :INFO : test_case1 :Clicked on Location filter
+2023-05-28 16:26:05,878 :INFO : test_case1 :Clicked on location option
+2023-05-28 16:33:45,823 :INFO : test_case1 :Clicked on Shop by category
+2023-05-28 16:33:47,689 :INFO : test_case1 :Clicked on Cell Phone and Accessories
+2023-05-28 16:33:49,964 :INFO : test_case1 :Clicked on Cell Phone accessories
+2023-05-28 16:33:50,251 :INFO : test_case1 :Clicked on See All
+2023-05-28 16:33:51,755 :INFO : test_case1 :Waited for close button
+2023-05-28 16:33:51,946 :INFO : test_case1 :Clicked on screensize filter
+2023-05-28 16:33:53,182 :INFO : test_case1 :Clicked on 6 in screen size option 
+2023-05-28 16:33:53,314 :INFO : test_case1 :Clicked on Location filter
+2023-05-28 16:33:54,519 :INFO : test_case1 :Clicked on location option
+2023-05-28 16:33:54,638 :INFO : test_case1 :Clicked on Price filter
+2023-05-28 16:37:41,987 :INFO : test_case1 :Clicked on Shop by category
+2023-05-28 16:37:43,836 :INFO : test_case1 :Clicked on Cell Phone and Accessories
+2023-05-28 16:37:46,034 :INFO : test_case1 :Clicked on Cell Phone accessories
+2023-05-28 16:37:46,285 :INFO : test_case1 :Clicked on See All
+2023-05-28 16:37:47,633 :INFO : test_case1 :Waited for close button
+2023-05-28 16:37:47,915 :INFO : test_case1 :Clicked on screensize filter
+2023-05-28 16:37:49,129 :INFO : test_case1 :Clicked on 6 in screen size option 
+2023-05-28 16:37:49,259 :INFO : test_case1 :Clicked on Location filter
+2023-05-28 16:37:50,434 :INFO : test_case1 :Clicked on location option
+2023-05-28 16:37:50,567 :INFO : test_case1 :Clicked on Price filter
+2023-05-28 16:38:48,552 :INFO : test_case1 :Clicked on Shop by category
+2023-05-28 16:38:50,431 :INFO : test_case1 :Clicked on Cell Phone and Accessories
+2023-05-28 16:38:52,393 :INFO : test_case1 :Clicked on Cell Phone accessories
+2023-05-28 16:38:52,727 :INFO : test_case1 :Clicked on See All
+2023-05-28 16:38:54,073 :INFO : test_case1 :Waited for close button
+2023-05-28 16:38:54,295 :INFO : test_case1 :Clicked on screensize filter
+2023-05-28 16:38:55,543 :INFO : test_case1 :Clicked on 6 in screen size option 
+2023-05-28 16:38:55,662 :INFO : test_case1 :Clicked on Location filter
+2023-05-28 16:38:56,909 :INFO : test_case1 :Clicked on location option
+2023-05-28 16:38:57,068 :INFO : test_case1 :Clicked on Price filter
+2023-05-28 16:38:58,230 :INFO : test_case1 :Entered the minimum value
+2023-05-28 16:38:58,387 :INFO : test_case1 :Entered the Maximum value
+2023-05-28 16:38:58,531 :INFO : test_case1 :Clicked on Apply button
+2023-05-28 16:51:32,977 :INFO : test_case1 :Clicked on Shop by category
+2023-05-28 16:51:35,170 :INFO : test_case1 :Clicked on Cell Phone and Accessories
+2023-05-28 16:51:37,275 :INFO : test_case1 :Clicked on Cell Phone accessories
+2023-05-28 16:51:37,511 :INFO : test_case1 :Clicked on See All
+2023-05-28 16:51:38,911 :INFO : test_case1 :Waited for close button
+2023-05-28 16:51:39,176 :INFO : test_case1 :Clicked on screensize filter
+2023-05-28 16:51:40,438 :INFO : test_case1 :Clicked on 6 in screen size option 
+2023-05-28 16:51:40,573 :INFO : test_case1 :Clicked on Location filter
+2023-05-28 16:51:41,859 :INFO : test_case1 :Clicked on location option
+2023-05-28 16:51:41,979 :INFO : test_case1 :Clicked on Price filter
+2023-05-28 16:51:42,966 :INFO : test_case1 :Entered the minimum value
+2023-05-28 16:51:43,050 :INFO : test_case1 :Entered the Maximum value
+2023-05-28 16:51:43,131 :INFO : test_case1 :Clicked on Apply button
+2023-05-28 16:51:46,043 :INFO : test_case1 :Clicked on applied filter to check the filters results
+2023-05-28 17:02:37,123 :INFO : test_case1 :Clicked on Shop by category
+2023-05-28 17:02:39,001 :INFO : test_case1 :Clicked on Cell Phone and Accessories
+2023-05-28 17:02:39,138 :INFO : test_case1 :Clicked on Cell Phone accessories
+2023-05-28 17:19:46,313 :INFO : test_case1 :Sent keys for Macbook
+2023-05-28 17:26:13,456 :INFO : test_case2 :Sent keys for Macbook
+2023-05-28 17:26:15,921 :INFO : test_case2 :Clicked on search button
+2023-05-28 17:26:40,356 :INFO : test_case1 :Clicked on Shop by category
+2023-05-28 17:26:42,298 :INFO : test_case1 :Clicked on Cell Phone and Accessories
+2023-05-28 17:26:44,563 :INFO : test_case1 :Clicked on Cell Phone accessories
+2023-05-28 17:26:44,905 :INFO : test_case1 :Clicked on See All
+2023-05-28 17:26:46,242 :INFO : test_case1 :Waited for close button
+2023-05-28 17:26:46,452 :INFO : test_case1 :Clicked on screensize filter
+2023-05-28 17:26:47,671 :INFO : test_case1 :Clicked on 6 in screen size option 
+2023-05-28 17:26:47,805 :INFO : test_case1 :Clicked on Location filter
+2023-05-28 17:26:49,339 :INFO : test_case1 :Clicked on location option
+2023-05-28 17:26:49,458 :INFO : test_case1 :Clicked on Price filter
+2023-05-28 17:26:50,593 :INFO : test_case1 :Entered the minimum value
+2023-05-28 17:26:50,684 :INFO : test_case1 :Entered the Maximum value
+2023-05-28 17:26:50,782 :INFO : test_case1 :Clicked on Apply button
+2023-05-28 17:26:53,307 :INFO : test_case1 :Clicked on applied filter to check the filters results
+2023-05-28 17:26:58,574 :INFO : test_case2 :Sent keys for Macbook
+2023-05-28 17:27:00,949 :INFO : test_case2 :Clicked on search button
+2023-05-28 17:28:01,785 :INFO : test_case1 :Clicked on Shop by category
+2023-05-28 17:28:04,033 :INFO : test_case1 :Clicked on Cell Phone and Accessories
+2023-05-28 17:28:06,266 :INFO : test_case1 :Clicked on Cell Phone accessories
+2023-05-28 17:28:06,539 :INFO : test_case1 :Clicked on See All
+2023-05-28 17:28:08,298 :INFO : test_case1 :Waited for close button
+2023-05-28 17:28:08,485 :INFO : test_case1 :Clicked on screensize filter
+2023-05-28 17:28:09,788 :INFO : test_case1 :Clicked on 6 in screen size option 
+2023-05-28 17:28:09,913 :INFO : test_case1 :Clicked on Location filter
+2023-05-28 17:28:11,199 :INFO : test_case1 :Clicked on location option
+2023-05-28 17:28:11,321 :INFO : test_case1 :Clicked on Price filter
+2023-05-28 17:28:12,550 :INFO : test_case1 :Entered the minimum value
+2023-05-28 17:28:12,644 :INFO : test_case1 :Entered the Maximum value
+2023-05-28 17:28:12,725 :INFO : test_case1 :Clicked on Apply button
+2023-05-28 17:28:15,392 :INFO : test_case1 :Clicked on applied filter to check the filters results
+2023-05-28 17:28:20,639 :INFO : test_case2 :Sent keys for Macbook
+2023-05-28 17:28:23,145 :INFO : test_case2 :Clicked on search button
+2023-05-28 17:29:06,829 :INFO : test_case1 :Clicked on Shop by category
+2023-05-28 17:29:08,745 :INFO : test_case1 :Clicked on Cell Phone and Accessories
+2023-05-28 17:29:10,896 :INFO : test_case1 :Clicked on Cell Phone accessories
+2023-05-28 17:29:11,158 :INFO : test_case1 :Clicked on See All
+2023-05-28 17:29:12,565 :INFO : test_case1 :Waited for close button
+2023-05-28 17:29:12,785 :INFO : test_case1 :Clicked on screensize filter
+2023-05-28 17:29:14,278 :INFO : test_case1 :Clicked on 6 in screen size option 
+2023-05-28 17:29:14,395 :INFO : test_case1 :Clicked on Location filter
+2023-05-28 17:29:15,793 :INFO : test_case1 :Clicked on location option
+2023-05-28 17:29:15,910 :INFO : test_case1 :Clicked on Price filter
+2023-05-28 17:29:16,995 :INFO : test_case1 :Entered the minimum value
+2023-05-28 17:29:17,088 :INFO : test_case1 :Entered the Maximum value
+2023-05-28 17:29:17,164 :INFO : test_case1 :Clicked on Apply button
+2023-05-28 17:29:20,020 :INFO : test_case1 :Clicked on applied filter to check the filters results
+2023-05-28 17:29:25,205 :INFO : test_case2 :Sent keys for Macbook
+2023-05-28 17:29:27,546 :INFO : test_case2 :Clicked on search button
